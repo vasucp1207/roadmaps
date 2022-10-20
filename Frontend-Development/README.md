@@ -1,17 +1,10 @@
 # Frontend Roadmap
 ## Introduction
-###            What is front end developer
-
-
+### What is front end developer
 - [Resource 1](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
 - [Resource 2](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - [Resource 3](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)
-###      What is frontend web development
-
-
-
-
-
+### What is frontend web development
 - [Resource 1](https://www.youtube.com/watch?v=qyHyFsT7Hig)
 - [Resource 2](https://en.wikipedia.org/wiki/Front-end_web_development)
 
